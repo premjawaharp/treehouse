@@ -13,3 +13,24 @@ a {
 	text-align: center;
 	margin: 0;
 }
+
+header{
+	background: #fff;
+	border-color: #D3D3D3
+}
+
+h1, h2 {
+	color: #003;
+}
+
+/*#nav_elements a {
+	
+	font-weight: bold;
+	float: left;
+	
+	
+}*/
+
+#nav_elements {
+	background: #D3D3D3;
+}
